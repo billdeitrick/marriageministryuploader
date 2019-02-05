@@ -1,0 +1,5 @@
+# Ignore .env containing creds
+.env
+
+# Ignore data dir
+data
